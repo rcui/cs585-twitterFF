@@ -11,10 +11,13 @@ def parse(filename):
 
 
 def main():
-    f = open(sys.argv[2], 'w')
-    f.write(parse(sys.argv[1]))
-    f.write('\n')
-    f.close()
+    if len(sys.argv) is 3:
+        f = open(sys.argv[2], 'w')
+        f.write(parse(sys.argv[1]))
+        f.write('\n')
+        f.close()
+    else:
+        print 'Usage: python parse_tweet.py input output'
 
 if __name__ == "__main__":
     main()
