@@ -1,8 +1,8 @@
 # cs585-twitterFF
-# Final project for CS 585 Intro to NLP
-# Twitter friend finder
+Final project for CS 585 Intro to NLP
+Twitter friend finder
 
-# Contributors:
+Contributors:
 Richard Cui
 Gahyun Kim
 Tri Nguyen
