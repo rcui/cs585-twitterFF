@@ -1,5 +1,18 @@
-CLUSTER 1: CLASSICAL MUSIC
-ClassicFM
-AllieRobertson (Composer, Harpist and professional wanderer. Totally lucky to be travelling the world, making music and meeting wonderful people!)
-EleonorBindman (Pianist, Bach worshipper, music educator, human nature explorer, art lover...
+CLUSTER 1: KPOP
+ultbby (exo • bts • little mix • red velvet • GOT7 • Blackpink •)
+sushibuno
+grc_fbii
 
+CLUSTER 2: KDrama
+kdramarchive
+kdrama_news
+all_Kdramamovie
+
+BOTH: 
+KBSWorldTV
+KoreanUpdates
+KoreanBeacon
+
+NEITHER:
+nprclassical
+ClassicFM
