@@ -1,0 +1,23 @@
+
+twitter-log - Twitter Logger/Archiver
+
+USAGE:
+
+    twitter-log <screen_name> [max_id]
+
+DESCRIPTION:
+
+    Produce a complete archive in text form of a user's tweets. The
+    archive format is:
+
+        screen_name <tweet_id>
+        Date: <tweet_time>
+        [In-Reply-To: a_tweet_id]
+
+            Tweet text possibly spanning multiple lines with
+            each line indented by four spaces.
+
+
+    Each tweet is separated by two blank lines.
+
+
