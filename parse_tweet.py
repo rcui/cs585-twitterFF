@@ -18,7 +18,7 @@ def main():
         f.write('\n')
         f.close()
     else:
-        print 'Usage: python parse_tweet.py input output'
+        print 'Usage: python parse_tweet.py input'
 
 if __name__ == "__main__":
     main()
