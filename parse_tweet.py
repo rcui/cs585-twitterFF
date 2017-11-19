@@ -11,8 +11,9 @@ def parse(filename):
 
 
 def main():
-    if len(sys.argv) is 3:
-        f = open(sys.argv[2], 'w')
+    if len(sys.argv) is 2:
+        name = sys.argv[1].split(".")[0]
+        f = open(name + "_parsed.txt", 'w')
         f.write(parse(sys.argv[1]))
         f.write('\n')
         f.close()
