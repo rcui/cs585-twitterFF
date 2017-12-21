@@ -30,7 +30,7 @@ def lda(doc_list):
     return ldamodel.show_topics(num_topics=-1, num_words=10, formatted=False)
 
 def main():
-    with open("../sample_userdata/@LiuWenLW_parsed.txt", 'r') as inp:
+    with open("../sample_userdata/glapointewriter_parsed.txt", 'r') as inp:
         doc_list = inp.readlines()
     pprint(lda(doc_list))
 
