@@ -1,3 +1,5 @@
+# To run this file: python2 similarity.py twitter.txt from this directory
+
 import lda
 import json
 import sys
